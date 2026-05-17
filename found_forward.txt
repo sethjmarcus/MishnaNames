@@ -1,0 +1,77 @@
+FOUND: שרה
+Avot_1_9.txt -> שמעונ
+Avot_2_1.txt -> רבי
+Avot_2_10.txt -> המ
+
+FOUND: משה
+Bava_Batra_10_6.txt -> מי
+Bava_Batra_10_7.txt -> שני
+Bava_Batra_10_8.txt -> המלוה
+
+FOUND: לאה
+Bava_Batra_3_7.txt -> לא
+Bava_Batra_3_8.txt -> אינ
+Bava_Batra_4_1.txt -> המוכר
+
+FOUND: משה
+Bava_Kamma_4_9.txt -> מסרו
+Bava_Kamma_5_1.txt -> שור
+Bava_Kamma_5_2.txt -> הקדר
+
+FOUND: משה
+Demai_7_8.txt -> מי
+Eduyot_1_1.txt -> שמאי
+Eduyot_1_10.txt -> הפורט
+
+FOUND: שרה
+Eruvin_10_15.txt -> שרצ
+Eruvin_10_2.txt -> רבי
+Eruvin_10_3.txt -> היה
+
+FOUND: הלל
+Ketubot_4_6.txt -> האב
+Ketubot_4_7.txt -> לא
+Ketubot_4_8.txt -> לא
+
+FOUND: אברהמ
+Kiddushin_4_5.txt -> אינ
+Kiddushin_4_6.txt -> בת
+Kiddushin_4_7.txt -> רבי
+Kiddushin_4_8.txt -> האומר
+Kiddushin_4_9.txt -> מי
+
+FOUND: הלל
+Maasrot_5_2.txt -> העוקר
+Maasrot_5_3.txt -> לא
+Maasrot_5_4.txt -> לא
+
+FOUND: משה
+Makhshirin_2_2.txt -> מרחצ
+Makhshirin_2_3.txt -> שתי
+Makhshirin_2_4.txt -> הטורפ
+
+FOUND: הלל
+Middot_3_1.txt -> המזבח
+Middot_3_2.txt -> לוובקרנ
+Middot_3_3.txt -> למטה
+
+FOUND: חנה
+Pesachim_2_2.txt -> חמצ
+Pesachim_2_3.txt -> נכרי
+Pesachim_2_4.txt -> האוכל
+
+FOUND: הלל
+Sheviit_5_2.txt -> הטומנ
+Sheviit_5_3.txt -> לופ
+Sheviit_5_4.txt -> לופ
+
+FOUND: אורה
+Shevuot_6_4.txt -> אינ
+Shevuot_6_5.txt -> ואלו
+Shevuot_6_6.txt -> רבי
+Shevuot_6_7.txt -> המלוה
+
+FOUND: משה
+Terumot_4_2.txt -> מי
+Terumot_4_3.txt -> שעור
+Terumot_4_4.txt -> האומר

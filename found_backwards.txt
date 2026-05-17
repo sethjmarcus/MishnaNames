@@ -1,0 +1,79 @@
+FOUND: רשא
+Avot_1_18.txt -> רבנ
+Avot_1_2.txt -> שמעונ
+Avot_1_3.txt -> אנטיגנוס
+
+FOUND: הרש
+Avot_4_17.txt -> הוא
+Avot_4_18.txt -> רבי
+Avot_4_19.txt -> שמואל
+
+FOUND: הלא
+Bava_Batra_3_6.txt -> המרזב
+Bava_Batra_3_7.txt -> לא
+Bava_Batra_3_8.txt -> אינ
+
+FOUND: רשא
+Bekhorot_2_6.txt -> רחל
+Bekhorot_2_7.txt -> שתי
+Bekhorot_2_8.txt -> אחת
+
+FOUND: חנ
+Bekhorot_6_4.txt -> חטמו
+Bekhorot_6_5.txt -> נפגמ
+
+FOUND: חנ
+Eruvin_7_3.txt -> חריצ
+Eruvin_7_4.txt -> נתנ
+
+FOUND: ללה
+Maasrot_5_3.txt -> לא
+Maasrot_5_4.txt -> לא
+Maasrot_5_5.txt -> הלוקח
+
+FOUND: ללה
+Mikvaot_1_7.txt -> למעלה
+Mikvaot_1_8.txt -> למעלה
+Mikvaot_2_1.txt -> הטמא
+
+FOUND: הרש
+Nazir_5_6.txt -> הרתיע
+Nazir_5_7.txt -> ראה
+Nazir_6_1.txt -> שלשה
+
+FOUND: חנ
+Pesachim_2_2.txt -> חמצ
+Pesachim_2_3.txt -> נכרי
+
+FOUND: רשא
+Pesachim_3_4.txt -> רבנ
+Pesachim_3_5.txt -> שאור
+Pesachim_3_6.txt -> ארבעה
+
+FOUND: חנ
+Pesachim_7_4.txt -> חמשה
+Pesachim_7_5.txt -> נטמא
+
+FOUND: ללה
+Sheviit_7_4.txt -> לקח
+Sheviit_7_5.txt -> לולבי
+Sheviit_7_6.txt -> הורד
+
+FOUND: היח
+Temurah_1_6.txt -> העופות
+Temurah_2_1.txt -> יש
+Temurah_2_2.txt -> חטאת
+
+FOUND: מדא
+Terumot_11_10.txt -> מדליקינ
+Terumot_11_2.txt -> דבש
+Terumot_11_3.txt -> אינ
+
+FOUND: השמ
+Yevamot_13_6.txt -> המגרש
+Yevamot_13_7.txt -> שני
+Yevamot_13_8.txt -> מי
+
+FOUND: חנ
+Zevachim_11_2.txt -> חטאת
+Zevachim_11_3.txt -> נתז
